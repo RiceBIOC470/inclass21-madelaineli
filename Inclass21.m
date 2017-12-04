@@ -1,4 +1,10 @@
 %In class 21
+
+%GB comments
+1 100
+2 100
+overall 100
+
 function inclass21
 sim1;
 sim2;
